@@ -5,7 +5,7 @@ permalink: /
 subtitle: >
   <p style="font-size: 18px;">Third International Workshop on LLMVDB: Data Infrastructure for Agentic AI</p>
   <p>In conjunction with the 43rd IEEE International Conference on Data Engineering (ICDE 2027)</p>
-  <p><strong>May 2027, Copenhagen, Denmark (workshop day to be confirmed)</strong></p>
+  <p><strong>May 2027, Copenhagen, Denmark (Monday 17th of May, 2027)</strong></p>
 profile:
   align: right
   image: mylogo.jpg
