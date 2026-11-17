@@ -1,0 +1,54 @@
+---
+layout: page
+permalink: /submissions/
+title: Call for Papers
+description: 
+nav: true
+nav_order: 3
+---
+
+## Topics
+
+We welcome researchers from the fields of databases, machine learning, and related disciplines to submit their latest work to our workshop. We especially encourage submissions on, but not limited to, the following topics:
+
+* Integration of Vector Databases and LLMs
+* Vector Data Management for LLMs
+* Optimizing Vector Databases with LLMs (e.g., Algorithms, Systems, etc.)
+* AI Agents and Agentic RAG
+* Agent Memory and Context Management
+* Semantic Operators and Query Optimization for Agentic Workflows
+* Shared State, Transactions, and Recovery in Multi-Agent Systems
+* Architecture for LLMs + Vector Databases
+* Training, Fine-tuning, and In-context Learning for LLMs + Vector Databases
+* Cost, Efficiency, Accuracy, and Scalability of LLMs + Vector Databases
+* Multimodal Extensions of LLMs + Vector Databases
+* Security and Privacy for LLMs + Vector Databases
+* Fairness, Accountability, Transparency, Trustworthiness of LLMs + Vector Databases
+* Benchmarking of LLMs + Vector Databases
+* Case Studies and Emerging Applications for LLMs + Vector Databases
+* Data Management Challenges and Future Directions for LLMs + Vector Databases
+
+## Important Dates
+
+The deadline time and time zone will be announced.
+
+* Submission Deadline: January 15, 2027
+* Acceptance Notification: February 20, 2027
+* Camera-Ready Version Deadline: March 9, 2027
+
+## Submission Guidelines
+
+To ensure your submission is considered, please adhere to the following guidelines:
+
+* **Formatting Instructions**: Manuscripts must be prepared in accordance with the IEEE format available at **[style files](https://www.ieee.org/conferences_events/conferences/publishing/templates.html)**. Papers need to be prepared and submitted as a single file: We accept papers, including survey/vision/tutorials/demos and late-breaking results, that fall under short papers of at most 6 pages (two columns) and long papers up to 12 pages (two columns), with unlimited pages for references. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+*   **Dual Submission Policy**: A paper submitted to LLM + Vector Data workshop cannot be under review for any other conference or journal during the entire time and it must be original work not described in any prior publication. A prior publication is a paper that has been accepted for presentation at a refereed conference or workshop with proceedings; or an article that has been accepted for publication in a refereed journal. 
+*   **Reviews**: The review process will be single-blind.
+
+To submit your work, please visit the **[CMT submission website](https://cmt3.research.microsoft.com/LLMVectorDB2027)**.
+
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
+
+## Questions
+
+For questions about the workshop or submissions, please contact the [workshop chairs](/people/).
