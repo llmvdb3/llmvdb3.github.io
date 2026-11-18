@@ -27,6 +27,7 @@ We welcome researchers from the fields of databases, machine learning, and relat
 * Benchmarking of LLMs + Vector Databases
 * Case Studies and Emerging Applications for LLMs + Vector Databases
 * Data Management Challenges and Future Directions for LLMs + Vector Databases
+* Data Engineering for AI Harness
 
 ## Important Dates
 
